@@ -4,8 +4,6 @@
 }
 
 .error {
-  background-color: lightcoral;
+  background-color: rgb(211, 11, 11);
   border: red;
 }
-
-
